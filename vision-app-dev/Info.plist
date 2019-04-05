@@ -26,6 +26,8 @@
 	<string>Main</string>
 	<key>NSCameraUsageDescription</key>
 	<string>Vision Camera User</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Can I use dem photos</string>
 	<key>UIRequiredDeviceCapabilities</key>
 	<array>
 		<string>armv7</string>
